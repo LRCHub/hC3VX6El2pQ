@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ÅMARA (大未来電脳) - ÅMARA (The Great Intelligence)",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2026-02-15T10:59:50.453324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Amara",
+      "artist": "Ritmo Tribale",
+      "has_synced": false,
+      "path": "select/01_Amara_Ritmo_Tribale.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Amara",
+      "artist": "Mikel Erentxun",
+      "has_synced": true,
+      "path": "select/02_Amara_Mikel_Erentxun.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amara",
+      "artist": "Enzo Carella",
+      "has_synced": true,
+      "path": "select/03_Amara_Enzo_Carella.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ÅMARA (The Great Intelligence)",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/04_ÅMARA_(The_Great_Intelligence)_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fly (feat. Amara Abonta)",
+      "artist": "Ødyssey feat. Amara Abonta",
+      "has_synced": true,
+      "path": "select/05_Fly_(feat._Amara_Abonta)_Ødyssey_feat._Amara_Abonta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly (feat. Amara Abonta)",
+      "artist": "Ødyssey",
+      "has_synced": true,
+      "path": "select/06_Fly_(feat._Amara_Abonta)_Ødyssey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Amanda Miguel",
+      "has_synced": true,
+      "path": "select/07_Así_No_Te_Amará_Jamás_Amanda_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Amanda Miguel Y Diego Verdaguer",
+      "has_synced": false,
+      "path": "select/08_Así_No_Te_Amará_Jamás_Amanda_Miguel_Y_Diego_Verdaguer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nadie Te Amará Como Yo",
+      "artist": "Dyland & Lenny",
+      "has_synced": true,
+      "path": "select/09_Nadie_Te_Amará_Como_Yo_Dyland_&_Lenny.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Elbows (feat. Waka Flocka & Amara La Negra)",
+      "artist": "B.o.B",
+      "has_synced": false,
+      "path": "select/10_Elbows_(feat._Waka_Flocka_&_Amara_La_Negra)_B.o.B.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Amara Terra Mia",
+      "artist": "Radiodervish",
+      "has_synced": true,
+      "path": "select/11_Amara_Terra_Mia_Radiodervish.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Amara Terra Mia",
+      "artist": "Domenico Modugno",
+      "has_synced": true,
+      "path": "select/12_Amara_Terra_Mia_Domenico_Modugno.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Si No Te Amara Tanto",
+      "artist": "Espinoza Paz",
+      "has_synced": false,
+      "path": "select/13_Si_No_Te_Amara_Tanto_Espinoza_Paz.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amara terra mia",
+      "artist": "Mina",
+      "has_synced": true,
+      "path": "select/14_Amara_terra_mia_Mina.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Better Off (feat. Amara Joy)",
+      "artist": "Hollywood Principle",
+      "has_synced": false,
+      "path": "select/15_Better_Off_(feat._Amara_Joy)_Hollywood_Principle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ÅMARA (大未来電脳)",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/pl_01_ÅMARA_(大未来電脳)_sasakure.UK.txt"
+    }
+  ]
+}
